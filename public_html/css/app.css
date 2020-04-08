@@ -13796,7 +13796,9 @@ body {
   }
 }
 .take-with-you__addition img {
-  margin: 20px;
+  height: 135px;
+  margin-top: -34px;
+  padding-left: 20px;
 }
 .take-with-you__addition p {
   flex: 1;
@@ -14294,4 +14296,8 @@ body {
 }
 .timer .info-items__item-icon {
   padding-right: 15px;
+}
+
+.schedule .block__title {
+  margin-top: 20px;
 }
