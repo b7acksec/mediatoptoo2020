@@ -55989,11 +55989,11 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
     //     classToAdd: 'visible animated slideInLeft',
     //     offset: 100
     // });
-
-    $('.teaser__list-item, .call-to-action__text').addClass('hidden').viewportChecker({
-      classToAdd: 'visible animated flipInY',
-      offset: 100
-    }); // $('#photo-swipe-link img, .partners img, .mentimeter__title').addClass('hidden').viewportChecker({
+    // $('.teaser__list-item, .call-to-action__text').addClass('hidden').viewportChecker({
+    //     classToAdd: 'visible animated flipInY',
+    //     offset: 100
+    // });
+    // $('#photo-swipe-link img, .partners img, .mentimeter__title').addClass('hidden').viewportChecker({
     //     classToAdd: 'visible animated flipInX',
     //     offset: 100
     // });
