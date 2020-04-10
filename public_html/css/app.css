@@ -13534,6 +13534,10 @@ body {
   background-color: #fff;
 }
 
+.info-items__link {
+  text-decoration: none !important;
+}
+
 .teaser__title {
   margin-bottom: 35px;
   color: #002D62;
@@ -13758,7 +13762,8 @@ body {
 }
 
 .speakers__item-img img {
-  height: 70px !important;
+  height: 80px !important;
+  width: 80px !important;
 }
 
 .speakers__item::before, .speakers__item::after {
@@ -13831,6 +13836,11 @@ body {
   .take-with-you__addition p {
     text-align: center;
   }
+}
+
+.document {
+  height: 94px !important;
+  margin-top: -10px !important;
 }
 
 .awards {
@@ -14330,4 +14340,7 @@ body {
 .schedule .shedule__title p span {
   font-size: 20px;
   color: #002D62;
+}
+.schedule .speakers__item {
+  padding-top: 0px;
 }
