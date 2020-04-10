@@ -13462,7 +13462,6 @@ body {
 
 .navbar-light .navbar-nav .nav-link {
   color: #002D62;
-  font-weight: bold;
   font-size: 13px;
   text-transform: uppercase;
 }
@@ -14324,4 +14323,11 @@ body {
 
 .schedule .block__title {
   margin-top: 20px;
+}
+.schedule .shedule__title p {
+  font-size: 20px;
+}
+.schedule .shedule__title p span {
+  font-size: 20px;
+  color: #002D62;
 }
