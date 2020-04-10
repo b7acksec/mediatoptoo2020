@@ -55975,7 +55975,7 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
       setTimeout(function () {
         $('#loader').hide();
         $('.info-items__item').addClass('bounceIn');
-      }, 5000);
+      }, 1000);
     }); // $('.take-with-you__addition img, .take-with-you__addition p, .mentimeter a').addClass('hidden').viewportChecker({
     //     classToAdd: 'visible animated bounceIn',
     //     offset: 100
