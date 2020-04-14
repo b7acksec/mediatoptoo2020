@@ -55976,15 +55976,14 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
         $('#loader').hide();
         $('.info-items__item').addClass('bounceIn');
       }, 1000);
-    }); // $('.take-with-you__addition img, .take-with-you__addition p, .mentimeter a').addClass('hidden').viewportChecker({
-    //     classToAdd: 'visible animated bounceIn',
-    //     offset: 100
+    });
+    $('.take-with-you__addition img, .take-with-you__addition p, .mentimeter a').addClass('hidden').viewportChecker({
+      classToAdd: 'visible animated bounceIn',
+      offset: 100
+    }); // $('.awards__content p, .location').addClass('hidden').viewportChecker({
+    //     classToAdd: 'visible animated fadeIn',
+    //     offset: 300
     // });
-
-    /*$('.awards__content p, .location').addClass('hidden').viewportChecker({
-        classToAdd: 'visible animated fadeIn',
-        offset: 300
-    });*/
     // $('.take-with-you__label').addClass('hidden').viewportChecker({
     //     classToAdd: 'visible animated slideInLeft',
     //     offset: 100
@@ -55993,11 +55992,11 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
     //     classToAdd: 'visible animated flipInY',
     //     offset: 100
     // });
-    // $('#photo-swipe-link img, .partners img, .mentimeter__title').addClass('hidden').viewportChecker({
-    //     classToAdd: 'visible animated flipInX',
-    //     offset: 100
-    // });
-    // $('.speakers__item').addClass('hidden').viewportChecker({
+
+    $('#photo-swipe-link img, .partners img, .mentimeter__title').addClass('hidden').viewportChecker({
+      classToAdd: 'visible animated flipInX',
+      offset: 100
+    }); // $('.speakers__item').addClass('hidden').viewportChecker({
     //     classToAdd: 'visible animated jackInTheBox',
     //     offset: 100
     // });
