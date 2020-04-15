@@ -13056,7 +13056,12 @@ body {
   opacity: 1;
 }
 
-.parallax-window {
+.eco .parallax-window {
+  background: transparent;
+  min-height: 336px;
+}
+
+.kids .parallax-window {
   background: transparent;
   min-height: 366px;
 }
