@@ -13065,13 +13065,19 @@ body {
   background: transparent;
   min-height: 366px;
 }
+@media (max-width: 767.98px) {
+  .kids .parallax-window {
+    height: 390px;
+  }
+}
 
 .kids {
   height: 366px;
 }
 @media (max-width: 767.98px) {
   .kids {
-    height: 316px;
+    height: 570px;
+    background-color: #005CAB;
   }
 }
 .kids .container {
