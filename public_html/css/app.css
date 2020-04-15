@@ -13058,11 +13058,11 @@ body {
 
 .parallax-window {
   background: transparent;
-  min-height: 336px;
+  min-height: 366px;
 }
 
 .kids {
-  height: 336px;
+  height: 366px;
 }
 @media (max-width: 767.98px) {
   .kids {
@@ -13071,7 +13071,7 @@ body {
 }
 .kids .container {
   position: relative;
-  margin-top: -336px;
+  margin-top: -366px;
 }
 .kids__content {
   position: absolute;
@@ -13845,6 +13845,11 @@ body {
   margin-top: -10px !important;
 }
 
+.instruction {
+  font-size: 18px;
+  margin-top: -12px;
+}
+
 .awards {
   position: relative;
   height: 430px;
@@ -13946,6 +13951,10 @@ body {
   color: #fff !important;
   background-color: #002D62 !important;
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5) !important;
+}
+
+.stremlenie {
+  color: #F15D22;
 }
 
 .exhibition {
