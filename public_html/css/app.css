@@ -13672,6 +13672,10 @@ body {
   font-size: 14px !important;
 }
 
+.teaser-kg {
+  font-size: 12px !important;
+}
+
 .speakers__item {
   position: relative;
   display: flex;
