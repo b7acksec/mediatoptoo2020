@@ -13133,6 +13133,12 @@ body {
 .kids p:last-child {
   margin-bottom: 20px;
 }
+.kids .instruction-text {
+  text-align: justify;
+}
+.kids .instruction-text p {
+  padding-bottom: 7px;
+}
 
 .btn {
   padding: 0.68rem 2.5rem;
