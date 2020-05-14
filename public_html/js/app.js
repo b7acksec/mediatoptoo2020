@@ -55941,7 +55941,7 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
     var openPhotoSwipe = function openPhotoSwipe() {
       var pswpElement = document.querySelectorAll('.pswp')[0];
       var items = [{
-        src: 'images/gallery/01.jpg',
+        src: 'images/gallery/01.png',
         w: 1000,
         h: 667
       }, {
@@ -55949,7 +55949,7 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
         w: 1000,
         h: 667
       }, {
-        src: 'images/gallery/03.jpg',
+        src: 'images/gallery/03.png',
         w: 1000,
         h: 667
       }, {
