@@ -13156,6 +13156,10 @@ body {
   height: 100%;
 }
 
+.photosreport {
+  margin-right: 10px;
+}
+
 .btn {
   padding: 0.68rem 2.5rem;
   text-transform: uppercase;
